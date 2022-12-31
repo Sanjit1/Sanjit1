@@ -5,6 +5,7 @@
 I'm a first year Electrical Engineering student at UCLA. I'm still interested in a broad range of things including Neural Signal Processing, Circuits, Digital Logic Design, and Machine Learning. Most of these are more passion projects than anything else, but I'm always looking to learn more. To learn more about me, check out my [website](https://sanjitsarda.com/).
 ## Stats
 Ah yes, the stats.
+
 ![Sanjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjit1&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjit1&theme=cobalt)
