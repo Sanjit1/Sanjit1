@@ -2,7 +2,8 @@
 ###### v0.0.1™️
 
 ## About Me
-I'm a first year Electrical Engineering student at UCLA. I'm still interested in a broad range of things including Neural Signal Processing, Circuits, Digital Logic Design, and Machine Learning. Most of these are more passion projects than anything else, but I'm always looking to learn more. To learn more about me, check out my [website](https://sanjitsarda.com/).
+I'm a third year Electrical Engineering student at UCLA. I like all things EE, but I specialize in Signal Processing, Most of what you see here are passion projects, some of which I haven't had time to work on since college started, but I'm always looking to learn more and work on fun stuff. To learn more about me, check out my [website](https://sanjitsarda.com/).
+
 ## Stats
 Ah yes, the stats.
 
