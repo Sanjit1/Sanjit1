@@ -12,6 +12,6 @@ Ah yes, the stats.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjit1&theme=cobalt)
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjit-sarda-1b1b1b1b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjitsarda/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjitsarda4@gmail.com)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://sanjitsarda.com/)
