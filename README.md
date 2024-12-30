@@ -1,17 +1,38 @@
-# Hellooo I'm Sanjit <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30"> 
-###### v0.0.1™️
+# Ello 🦇
+###### v0.0.5™️
 
 ## About Me
-I'm a third year Electrical Engineering student at UCLA. I like all things EE, but I specialize in Signal Processing, Most of what you see here are passion projects, some of which I haven't had time to work on since college started, but I'm always looking to learn more and work on fun stuff. To learn more about me, check out my [website](https://sanjitsarda.com/).
 
-## Stats
-Ah yes, the stats.
-
-![Sanjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjit1&show_icons=true&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjit1&theme=cobalt)
-
-## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjitsarda/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjitsarda4@gmail.com)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://sanjitsarda.com/)
+
+I'm a third year Electrical Engineering student at UCLA. I like *most* things EE(not u, semiconductors), but I specialize in Signal Processing and Optimization. 
+
+If you are looking to learn more about me, check out my [website](https://sanjitsarda.com/). I have *some* information about my projects there, but I never update that website properly, so you are better off looking at my [GitHub](https://github.com/Sanjit1).
+
+I am happy to talk to people, so feel free to reach out. Also join [IEEE at UCLA](https://discord.gg/UHjbHfpw76), we are cool.
+
+
+## Cool things I'll showcase here
+Updated 12/2024
+ - [Double Resonant Solid State Tesla Coil](https://hackaday.io/project/196356-drsstc-1)
+ - [Neural Signal Processing for Motion](https://github.com/Sanjit1/NSP-ECE-189-Kao)
+ - [Pulse Signal Estimation from Face Video](https://github.com/Sanjit1/PPG-ECE-189-Kadambi)
+ - [Implicit Neural Models to Extract Pulse Signals from Videos](https://implicitppg.github.io/)
+
+## Pictures I'll put here
+![attiny pranks](./media/attiny%20pranks.jpg)
+![TC](./media/tc.jpg)
+![TC Electronics](./media/TCelec.jpg)
+![Snowman](./media/snowman.jpg)
+![Bread](./media/bread.jpg)
+![That time I committed B&E](./media/b%20and%20e.jpg) I am not affiliated with these robots lol.
+![Bubbles](./media/bubbles%201.jpg)
+![Home Sweet Home](./media/home%20sweet%20home.jpg)
+![Intr](./media/intr.jpg)
+![RIP](./media/keto.jpeg)
+![Omelette](./media/lette.jpg)
+![Lizzy](./media/lizzy.jpg)
+![Mr.Baker](./media/mr.baker.jpg)
+![Shrimp](./media/shrimp.jpg)
