@@ -52,6 +52,7 @@ Holy crap why is my face so big
 My friends cat
 
 ![Shrimp](./media/shrimp.jpg)
+
 When I make enough money.
 
 ### The Bottom
