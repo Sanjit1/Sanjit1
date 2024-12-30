@@ -24,6 +24,7 @@ Updated 12/2024
  - [Implicit Neural Models to Extract Pulse Signals from Videos](https://implicitppg.github.io/)
 
 ## Pictures I'll put here
+### [SKIP THE PIX](#the-bottom)
 ![attiny pranks](./media/attiny%20pranks.jpg)
 ![TC](./media/tc.jpg)
 ![TC Electronics](./media/TCelec.jpg)
@@ -38,3 +39,5 @@ Updated 12/2024
 ![Lizzy](./media/lizzy.jpg)
 ![Mr.Baker](./media/mr.baker.jpg)
 ![Shrimp](./media/shrimp.jpg)
+
+### The Bottom
