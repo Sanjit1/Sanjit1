@@ -27,7 +27,7 @@ Updated 12/2024
 ### [SKIP THE PIX](#the-bottom)
 ![attiny pranks](./media/attiny%20pranks.jpg)
 Tiny buggers that rick roll you every 30 mins. Inspired by [this](https://hackaday.io/project/28657/instructions).
-![TC](./media/tc.jpg)
+![TC](./media/TC.jpg)
 My Tesla Coil
 ![TC Electronics](./media/TCelec.jpg)
 The Guts of my Tesla Coil
