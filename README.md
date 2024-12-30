@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjitsarda/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjitsarda4@gmail.com)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://sanjitsarda.com/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/5bc0pbn945ysud6gky5r0uic9)
+
 
 I'm a third year Electrical Engineering student at UCLA. I like *most* things EE(not u, semiconductors), but I specialize in Signal Processing and Optimization. 
 
