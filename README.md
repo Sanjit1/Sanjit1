@@ -26,18 +26,31 @@ Updated 12/2024
 ## Pictures I'll put here
 ### [SKIP THE PIX](#the-bottom)
 ![attiny pranks](./media/attiny%20pranks.jpg)
+Tiny buggers that rick roll you every 30 mins. Inspired by [this](https://hackaday.io/project/28657/instructions).
 ![TC](./media/tc.jpg)
+My Tesla Coil
 ![TC Electronics](./media/TCelec.jpg)
+The Guts of my Tesla Coil
 ![Snowman](./media/snowman.jpg)
+My snowman ornament
 ![Bread](./media/bread.jpg)
+I keep stealing breadboards and forgetting to return them
 ![That time I committed B&E](./media/b%20and%20e.jpg) I am not affiliated with these robots lol.
 ![Bubbles](./media/bubbles%201.jpg)
+Bubbles(his real name is Tigger)
 ![Home Sweet Home](./media/home%20sweet%20home.jpg)
+Boy does it get crowded on the shipping docks
 ![Intr](./media/intr.jpg)
+Interrupter for my Tesla Coil
 ![RIP](./media/keto.jpeg)
+Uh... yea
 ![Omelette](./media/lette.jpg)
+I like Omelettes
 ![Lizzy](./media/lizzy.jpg)
+Holy crap why is my face so big
 ![Mr.Baker](./media/mr.baker.jpg)
+My friends dog
 ![Shrimp](./media/shrimp.jpg)
+When I make enough money.
 
 ### The Bottom
